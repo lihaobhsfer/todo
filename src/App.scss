@@ -22,18 +22,7 @@
   color: #61dafb;
 }
 
-/* .intro {
-  color: 'blue'; 
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: 30px;
-} */
 
-/* in /src/App.css */
-.intro {
-  color: $primary; /* variable usage */
-  @mixin noSelect; /* mixin usage */
-  @mixin OpenSans 30px; /* mixin with value usage */
-}
 
 @keyframes App-logo-spin {
   from {
