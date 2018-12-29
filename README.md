@@ -1,3 +1,10 @@
+# Todo
+This project is a tutorial project from gitchat.cn
+[link](https://gitbook.cn/gitchat/column/59ae12fdbc511269a95f9616)
+Following the tutorial, I built this todolist web app. The chapter on styling is a bit difficult to follow, since the tutorial / the original code was written 2 years ago, and webpack has changed a bit. However I managed to make it working by finding out which part need to be modified and making the modification.
+
+# original readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
