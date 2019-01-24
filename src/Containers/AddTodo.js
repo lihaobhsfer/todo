@@ -14,7 +14,7 @@ let AddTodo = ({dispatch}) => {
                     }
                     }}
                     ref={node => input = node}
-            className="new-todo" placeholder="接下来做什么？" autoFocus />
+            className="new-todo" placeholder="What's Next？" autoFocus />
         </header>
     )
 };
